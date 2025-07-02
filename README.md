@@ -39,10 +39,10 @@ My portfolio : ****
 
 
 ### 🧠 Latest Projects
--  [E Learning Platform --- Angular, .NET Web Api](https://github.com/NilupulUdara/elearning-platform-.net-angular.git)
+-  [Tour Information Website --- Angular, .NET Web Api](https://github.com/NilupulUdara/TourInfo)
 -  [Class Fee Management system --- MEAN](https://github.com/NilupulUdara/Class-Fee-Management-System-MEAN.git)
--  [NZWalks.API --- .NET Web API](https://github.com/NilupulUdara/NZWalks.API.git)
 -  [Blog.API --- .NET Web Api](https://github.com/NilupulUdara/Blogapp.API.git)
 -  [Movie Website --- React, Tailwindcss](https://github.com/NilupulUdara/cinemalk.git)
+-  [Automated Recognition and Classification of Coins](https://github.com/NilupulUdara/Automated-Recognition-and-Classification-of-Coins)
 -  [Blop APP --- MEAN](https://github.com/NilupulUdara/Blog-App-MEAN-Stack.git)
 ---
